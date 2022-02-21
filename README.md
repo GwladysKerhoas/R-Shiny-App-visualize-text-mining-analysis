@@ -22,11 +22,11 @@ Run the R Shiny app
 
 You just have to run the .R file in Rstudio and a browser window shows up. If the code doesn't run, it's because you have a problem in the connection. If you use a windows environment, use this code on line 175 :
 
-  con <- dbConnect(RMySQL::MySQL(), host = "localhost",dbname="Offres_Emploi",user = "root", password = "",port=3306)
-  good_Encoding=dbGetQuery(con, "SET NAMES 'latin1'")
+    con <- dbConnect(RMySQL::MySQL(), host = "localhost",dbname="Offres_Emploi",user = "root", password = "",port=3306)
+    good_Encoding=dbGetQuery(con, "SET NAMES 'latin1'")
 
 If you are using macOS :
 
-  con <- dbConnect(RMySQL::MySQL(), host = "127.0.0.1",dbname="Offres_Emploi",user = "root", password = "",port=3306)
-  good_Encoding=dbGetQuery(con, "SET NAMES 'utf8'")
+    con <- dbConnect(RMySQL::MySQL(), host = "127.0.0.1",dbname="Offres_Emploi",user = "root", password = "",port=3306)
+    good_Encoding=dbGetQuery(con, "SET NAMES 'utf8'")
 
