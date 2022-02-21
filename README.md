@@ -30,3 +30,12 @@ If you are using macOS :
     con <- dbConnect(RMySQL::MySQL(), host = "127.0.0.1",dbname="Offres_Emploi",user = "root", password = "",port=3306)
     good_Encoding=dbGetQuery(con, "SET NAMES 'utf8'")
 
+
+
+<img width="1424" alt="Capture d’écran 2022-02-21 à 16 10 44" src="https://user-images.githubusercontent.com/73121667/154982851-1410ac42-6309-4b6e-911b-bf451866e2b2.png">
+
+<img width="1404" alt="Capture d’écran 2022-02-21 à 16 11 20" src="https://user-images.githubusercontent.com/73121667/154982883-d4b60cc2-417c-4f11-9a23-8922529bdc75.png">
+
+
+
+
