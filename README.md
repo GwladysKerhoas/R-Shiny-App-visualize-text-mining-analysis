@@ -34,7 +34,9 @@ If you are using macOS :
 
 <img width="1424" alt="Capture d’écran 2022-02-21 à 16 10 44" src="https://user-images.githubusercontent.com/73121667/154982851-1410ac42-6309-4b6e-911b-bf451866e2b2.png">
 
-<img width="1404" alt="Capture d’écran 2022-02-21 à 16 11 20" src="https://user-images.githubusercontent.com/73121667/154982883-d4b60cc2-417c-4f11-9a23-8922529bdc75.png">
+<img width="1399" alt="Capture d’écran 2022-02-21 à 16 18 47" src="https://user-images.githubusercontent.com/73121667/154983336-89f08311-b8e5-4c87-ae83-1a4bc478eee2.png">
+
+
 
 
 
