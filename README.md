@@ -37,6 +37,15 @@ If you are using macOS :
 <img width="1399" alt="Capture d’écran 2022-02-21 à 16 18 47" src="https://user-images.githubusercontent.com/73121667/154983336-89f08311-b8e5-4c87-ae83-1a4bc478eee2.png">
 
 
+<img width="1401" alt="Capture d’écran 2022-02-21 à 16 24 56" src="https://user-images.githubusercontent.com/73121667/154984750-547d406c-8738-42cb-9a92-4cc6bc272133.png">
+
+<img width="1399" alt="Capture d’écran 2022-02-21 à 16 27 57" src="https://user-images.githubusercontent.com/73121667/154984924-af2c08fd-c7a6-4901-bd35-5255431485dc.png">
+
+<img width="1400" alt="Capture d’écran 2022-02-21 à 16 28 05" src="https://user-images.githubusercontent.com/73121667/154984943-968e76fc-fcac-4044-a421-82c1c360843d.png">
+
+<img width="1403" alt="Capture d’écran 2022-02-21 à 16 28 15" src="https://user-images.githubusercontent.com/73121667/154984958-34267f40-f76c-419d-9829-9432e1c33fa4.png">
+
+<img width="1401" alt="Capture d’écran 2022-02-21 à 16 28 33" src="https://user-images.githubusercontent.com/73121667/154984972-55902087-06d6-466b-9129-9e74df76d875.png">
 
 
 
